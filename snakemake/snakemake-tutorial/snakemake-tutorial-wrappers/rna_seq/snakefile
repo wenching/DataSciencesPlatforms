@@ -1,0 +1,3 @@
+include: "../bwa_map/snakefile"
+include: "../samtools_sort/snakefile"
+include: "../samtools_index/snakefile"
