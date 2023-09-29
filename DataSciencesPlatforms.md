@@ -27,11 +27,12 @@ always_allow_html: yes
 ## Comparisons
 
 - Platforms / Frameworks
-    - [Simple comparison of Snakemake, Nextflow and Cromwell/WDL](https://github.com/grst/snakemake_nextflow_wdl)
-    - [Which Bioinformatic Friendly Pipeline Building Framework?](https://www.biostars.org/p/91301/)
-    - Leipzig, Jeremy. “A Review of Bioinformatic Pipeline Frameworks.” Briefings in Bioinformatics 18, no. 3 (May 1, 2017): 530–36. [https://doi.org/10.1093/bib/bbw020](https://doi.org/10.1093/bib/bbw020).
-    - Krishnan, Vandhana, Sowmithri Utiramerur, Zena Ng, Somalee Datta, Michael P. Snyder, and Euan A. Ashley. “Benchmarking Workflows to Assess Performance and Suitability of Germline Variant Calling Pipelines in Clinical Diagnostic Assays.” BMC Bioinformatics 22, no. 1 (February 24, 2021): 85. [https://doi.org/10.1186/s12859-020-03934-3](https://doi.org/10.1186/s12859-020-03934-3).
-    - Jackson, Michael, Kostas Kavoussanakis, and Edward W. J. Wallace. “Using Prototyping to Choose a Bioinformatics Workflow Management System.” PLOS Computational Biology 17, no. 2 (February 25, 2021): e1008622. [https://doi.org/10.1371/journal.pcbi.1008622](https://doi.org/10.1371/journal.pcbi.1008622).
+  - [Summary of executor-level differences among Swift/T, Nextflow, CWL and WDL](https://www.nature.com/articles/s41598-021-99288-8/tables/2)
+  - [Simple comparison of Snakemake, Nextflow and Cromwell/WDL](https://github.com/grst/snakemake_nextflow_wdl)
+  - [Which Bioinformatic Friendly Pipeline Building Framework?](https://www.biostars.org/p/91301/)
+  - Leipzig, Jeremy. “A Review of Bioinformatic Pipeline Frameworks.” Briefings in Bioinformatics 18, no. 3 (May 1, 2017): 530–36. [https://doi.org/10.1093/bib/bbw020](https://doi.org/10.1093/bib/bbw020).
+  - Krishnan, Vandhana, Sowmithri Utiramerur, Zena Ng, Somalee Datta, Michael P. Snyder, and Euan A. Ashley. “Benchmarking Workflows to Assess Performance and Suitability of Germline Variant Calling Pipelines in Clinical Diagnostic Assays.” BMC Bioinformatics 22, no. 1 (February 24, 2021): 85. [https://doi.org/10.1186/s12859-020-03934-3](https://doi.org/10.1186/s12859-020-03934-3).
+  - Jackson, Michael, Kostas Kavoussanakis, and Edward W. J. Wallace. “Using Prototyping to Choose a Bioinformatics Workflow Management System.” PLOS Computational Biology 17, no. 2 (February 25, 2021): e1008622. [https://doi.org/10.1371/journal.pcbi.1008622](https://doi.org/10.1371/journal.pcbi.1008622).
 
 
 ***
